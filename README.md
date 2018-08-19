@@ -19,4 +19,6 @@ Frendo 自用 ShadowRocket rules.
 * 所有IP地址为CN的直连，剩下的代理；
 * 开启MITM，并让google.cn自动跳转到google.com
 
-`https://raw.githubusercontent.com/FrendoWu/Rocket-Rules/master/Rocket.conf`
+````
+https://raw.githubusercontent.com/FrendoWu/Rocket-Rules/master/Rocket.conf
+````
